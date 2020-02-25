@@ -1,0 +1,30 @@
+
+
+#marca {
+    font-family: cursive;
+    color: coral;
+    font-size: 25px;
+}
+
+#header img {
+    width: 150px;
+}
+
+#main .carousel-inner img {
+    max-height: 80vh;
+    object-fit: cover;
+
+}
+
+.title {
+    font-family: cursive;
+    color: coral;
+}
+
+#footer {
+    background-color: coral;
+}
+
+#footer a {
+    color: white;
+}
